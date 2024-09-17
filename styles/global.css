@@ -10,6 +10,7 @@
     --text-sm: 400 .874rem/1.4 var(--font-family);
     --text-semiBold: 600 1.5rem/1.25 var(--font-family);
     --text-xl: 600 2.5rem/1.25 var(--font-family);
+    --text-l: 600 1rem/1.25 var(--font-family);
 
     --text-primary: #292524;
     --text-secondary: #57534E;
